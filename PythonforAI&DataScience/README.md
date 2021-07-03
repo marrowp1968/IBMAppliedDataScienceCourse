@@ -1,3 +1,5 @@
-Folder for course from IBM Applied Data Science Specialization on Coursera.
+Folder for exercises from course in IBM Applied Data Science Specialization on Coursera.
 
 Full name "Python for AI, Data Science & Development"
+
+Exercises have been moved from above folder.
